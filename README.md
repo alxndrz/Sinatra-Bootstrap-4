@@ -1,4 +1,4 @@
-sinatra-bootstrap-clean
+Sinatra Bootstrap v.4.1.3
 =======================
 
-Cleaned version of https://github.com/bootstrap-ruby/sinatra-bootstrap
+Updated version of https://github.com/bootstrap-ruby/sinatra-bootstrap
